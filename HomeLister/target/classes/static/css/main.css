@@ -1,0 +1,16 @@
+#note-box {
+	height: 150px;
+	margin-bottom: 15px;
+}
+#pageTitle {
+	display: flex;
+	align-items: center;
+	font-family: Arial, Helvetica, sans-serif ;
+	font-weight: bold;
+	}
+.card {
+	width: 500px;
+	box-shadow: 10px 10px 5px black;
+	background: rgba(255,255,255,0.4);
+	margin-top: 25px;
+}
